@@ -1,6 +1,6 @@
 cask "multi-month-mini-calendar" do
-  version "0.0.3"
-  sha256 "c353d07861715c067423cb987daf19f8678053fd5e3be87d8d45b2a347a53ff3"
+  version "0.0.4"
+  sha256 "d2981f6c6d0edaf02469703e0a09242f7e233547b88b4612cf89e80a14458c9d"
 
   url "https://github.com/kujiy/multi-month-mini-calendar/releases/download/v#{version}/Multi-Month-Mini-Calendar.zip"
   name "Multi-Month Mini Calendar"
