@@ -16,5 +16,6 @@ cask "multi-month-mini-calendar" do
     it on first launch. If it does, run:
 
       xattr -dr com.apple.quarantine "/Applications/Multi-Month Mini Calendar.app"
+      open "/Applications/Multi-Month Mini Calendar.app"
   EOS
 end
