@@ -3,8 +3,8 @@
 # there once. CI (Scripts/update-homebrew-cask.sh) rewrites `version` and
 # `sha256` on each release; the rest stays as below.
 cask "hee-button" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "1.0.1"
+  sha256 "ccda149b50c68fcc428e3447a3addd88be6750e6089dabfcc8004e94e807d7f7"
 
   url "https://github.com/kujiy/hee-button/releases/download/v#{version}/HeeButton-#{version}.zip"
   name "HeeButton"
